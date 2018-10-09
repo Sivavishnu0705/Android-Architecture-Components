@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">LifecycleObserver</string>
+    <string name="proceed_for_network_related_operation">Proceed for network related operation.</string>
+</resources>
